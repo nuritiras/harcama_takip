@@ -37,7 +37,9 @@ Uygulamanın arka planında çalışan REST API rotaları şunlardır:
 
 ## 📸 Ekran Görüntüleri
 
-*(Projenizi GitHub'a yüklediğinizde, uygulamanızın ekran görüntülerini "Giriş Ekranı", "Harcama Listesi" ve "Ekleme Formu" olacak şekilde klasörünüze ekleyip bu kısımda sergileyebilirsiniz. Örnek kullanım: `![Giriş Ekranı](assets/login.png)` )*
+<img width="484" height="886" alt="Ekran Resmi 2026-03-21 00 53 52" src="https://github.com/user-attachments/assets/04f7c9fa-8f61-4e49-a794-ff164a95bdc7" />
+<img width="484" height="886" alt="Ekran Resmi 2026-03-21 00 54 39" src="https://github.com/user-attachments/assets/ad2321a1-870c-45df-abb1-ee083b9c0b59" />
+<img width="484" height="886" alt="Ekran Resmi 2026-03-21 00 55 07" src="https://github.com/user-attachments/assets/320b474f-aded-46f4-9261-289576bc0a08" />
 
 ---
 

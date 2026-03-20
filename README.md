@@ -43,7 +43,7 @@ Uygulamanın arka planında çalışan REST API rotaları şunlardır:
 
 ---
 
-**Geliştirici:** [Senin Adın/Kullanıcı Adın]  
+**Geliştirici:** [Nuri TIRAŞ/nuritiras]  
 Herhangi bir sorunuz veya katkınız olursa iletişime geçmekten çekinmeyin!
 ```
 
